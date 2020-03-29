@@ -15,6 +15,6 @@ Machine Learning Techniques:
 - Linear Discriminant Analysis (LDA) for Data Mining
 
 Collaborators:
-Andy Wu
-Aaron Leung
-Tanner Litwin
+- Andy Wu
+- Aaron Leung
+- Tanner Litwin
